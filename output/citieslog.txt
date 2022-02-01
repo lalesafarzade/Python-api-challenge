@@ -1,0 +1,597 @@
+Urucará with city ID:3385670 was found 
+Muli with city ID:1337617 was found 
+Yellowknife with city ID:6185377 was found 
+Cabedelo with city ID:3404558 was found 
+Union with city ID:5105640 was found 
+Vaini with city ID:4032243 was found 
+Setermoen with city ID:3139765 was found 
+Khatanga with city ID:2022572 was found 
+Río Gallegos with city ID:3838859 was found 
+ Citytaolanaro not found. Skipping... 
+Saldanha with city ID:3361934 was found 
+Lishui with city ID:1803245 was found 
+Cherskiy with city ID:2126199 was found 
+Rikitea with city ID:4030556 was found 
+Kapaa with city ID:5848280 was found 
+Mar del Plata with city ID:3430863 was found 
+Albany with city ID:5106841 was found 
+Yar-Sale with city ID:1486321 was found 
+Bluff with city ID:2206939 was found 
+Yulara with city ID:6355222 was found 
+Tahoua with city ID:2439376 was found 
+Hermanus with city ID:3366880 was found 
+Kavaratti with city ID:1267390 was found 
+ Cityilloqqortoormiut not found. Skipping... 
+Barrow with city ID:5880054 was found 
+Chui with city ID:3443061 was found 
+Ushuaia with city ID:3833367 was found 
+Hobart with city ID:2163355 was found 
+Lemon Tree Passage with city ID:2148398 was found 
+Punta Arenas with city ID:3874787 was found 
+Faanui with city ID:4034551 was found 
+Lincoln with city ID:5072006 was found 
+Ailigandí with city ID:3714956 was found 
+Hilo with city ID:5855927 was found 
+Fort-Shevchenko with city ID:609906 was found 
+Sørland with city ID:3137469 was found 
+Cape Town with city ID:3369157 was found 
+Sakakah with city ID:102527 was found 
+Hasaki with city ID:2112802 was found 
+Bredasdorp with city ID:1015776 was found 
+Yārāda with city ID:1252783 was found 
+Tiksi with city ID:2015306 was found 
+ Cityaflu not found. Skipping... 
+Busselton with city ID:2075265 was found 
+Bouca with city ID:2387890 was found 
+Abu Samrah with city ID:172515 was found 
+Huarmey with city ID:3939168 was found 
+Henties Bay with city ID:3356832 was found 
+Port Blair with city ID:1259385 was found 
+Talnakh with city ID:1490256 was found 
+Merauke with city ID:2082539 was found 
+Dajal with city ID:1180752 was found 
+ Citytumannyy not found. Skipping... 
+George Town with city ID:1735106 was found 
+ Citymys shmidta not found. Skipping... 
+ Citybelushya guba not found. Skipping... 
+Avarua with city ID:4035715 was found 
+Mehamn with city ID:778707 was found 
+Kargasok with city ID:1504382 was found 
+Port Alfred with city ID:964432 was found 
+ Citywahran not found. Skipping... 
+Ribeira Grande with city ID:3372707 was found 
+Airai with city ID:1651810 was found 
+Mataura with city ID:6201424 was found 
+Saint-Philippe with city ID:935215 was found 
+Riyadh with city ID:108410 was found 
+Saskylakh with city ID:2017155 was found 
+Sorong with city ID:1626542 was found 
+Bethel with city ID:5282297 was found 
+Laguna with city ID:5364271 was found 
+Fortuna with city ID:5563839 was found 
+Upernavik with city ID:3418910 was found 
+Okha with city ID:2122614 was found 
+Verkhotur'ye with city ID:1487219 was found 
+ Citybarentsburg not found. Skipping... 
+Porbandar with city ID:1259395 was found 
+Atuona with city ID:4020109 was found 
+Tuatapere with city ID:2180815 was found 
+Lorengau with city ID:2092164 was found 
+Diffa with city ID:2445704 was found 
+Asău with city ID:686090 was found 
+Kudahuvadhoo with city ID:1337607 was found 
+Moree with city ID:2156927 was found 
+Mazagão with city ID:3395042 was found 
+Santo Ângelo with city ID:3449696 was found 
+Creel with city ID:4012593 was found 
+Batagay-Alyta with city ID:2027042 was found 
+Tasiilaq with city ID:3424607 was found 
+Januária with city ID:3460148 was found 
+Barinas with city ID:3648546 was found 
+Bambous Virieux with city ID:1106677 was found 
+Iqaluit with city ID:5983720 was found 
+Camaná with city ID:3945985 was found 
+ Cityyunjinghong not found. Skipping... 
+Pisco with city ID:3932145 was found 
+Panabá with city ID:3521972 was found 
+Mugi with city ID:524602 was found 
+Longyearbyen with city ID:2729907 was found 
+Sterling with city ID:4787534 was found 
+Palmer with city ID:4946620 was found 
+Kahului with city ID:5847411 was found 
+New Norfolk with city ID:2155415 was found 
+Nikolskoye with city ID:546105 was found 
+Hong Kong with city ID:1819729 was found 
+Avera with city ID:4231997 was found 
+Lebu with city ID:3883457 was found 
+Najrān with city ID:103630 was found 
+ Citykarpuninskiy not found. Skipping... 
+ Cityattawapiskat not found. Skipping... 
+Mahébourg with city ID:934322 was found 
+Jamestown with city ID:5122534 was found 
+Tarakan with city ID:1624725 was found 
+Fort Smith with city ID:4111410 was found 
+Cap Malheureux with city ID:934649 was found 
+Tshikapa with city ID:204953 was found 
+ Citydoctor pedro p. pena not found. Skipping... 
+Kita with city ID:2455216 was found 
+Mount Darwin with city ID:885800 was found 
+Butaritari with city ID:2110227 was found 
+Petropavlovsk-Kamchatskiy with city ID:2122104 was found 
+Mogadishu with city ID:53654 was found 
+Jesup with city ID:4202810 was found 
+Bariloche with city ID:7647007 was found 
+Lompoc with city ID:5367788 was found 
+Manokwari with city ID:1636308 was found 
+Kampene with city ID:214575 was found 
+Chapais with city ID:5919850 was found 
+Belmonte with city ID:3470137 was found 
+Puerto Ayora with city ID:3652764 was found 
+Kismayo with city ID:55671 was found 
+Aklavik with city ID:5882953 was found 
+Tam Ky with city ID:1567148 was found 
+Chifeng with city ID:2038067 was found 
+Chake Chake with city ID:160677 was found 
+Nanortalik with city ID:3421765 was found 
+Cedar City with city ID:5536630 was found 
+Springfield with city ID:4409896 was found 
+Te Anau with city ID:2181625 was found 
+Manaure with city ID:3675504 was found 
+Vitim with city ID:2013375 was found 
+Dudinka with city ID:1507116 was found 
+Kloulklubed with city ID:7671223 was found 
+Verkhnyaya Inta with city ID:1487332 was found 
+Kaeo with city ID:2189343 was found 
+Arraial do Cabo with city ID:3471451 was found 
+Pineville with city ID:4337291 was found 
+Tautira with city ID:4033557 was found 
+Sørkjosen with city ID:777572 was found 
+Tuktoyaktuk with city ID:6170031 was found 
+ Citytabiauea not found. Skipping... 
+ Citykamenskoye not found. Skipping... 
+Panguna with city ID:2088659 was found 
+Guerrero Negro with city ID:4021858 was found 
+Metro with city ID:1635283 was found 
+Shimoda with city ID:1852357 was found 
+Manggar with city ID:1636426 was found 
+Provideniya with city ID:4031574 was found 
+Bengkulu with city ID:1649150 was found 
+Bozoum with city ID:2387546 was found 
+Patterson with city ID:5381515 was found 
+Mata Grande with city ID:3395162 was found 
+Chegdomyn with city ID:2025579 was found 
+Włodawa with city ID:755474 was found 
+Leningradskiy with city ID:2123814 was found 
+ Cityhalalo not found. Skipping... 
+Birao with city ID:240210 was found 
+Mīnāb with city ID:123941 was found 
+Itoman with city ID:1861280 was found 
+Flin Flon with city ID:5954718 was found 
+Aksarka with city ID:1512019 was found 
+Fort Nelson with city ID:5955902 was found 
+Flinders with city ID:6255012 was found 
+Ambon City with city ID:1651531 was found 
+Jalu with city ID:86049 was found 
+Xining with city ID:1788852 was found 
+Mandera with city ID:187896 was found 
+Bandarbeyla with city ID:64814 was found 
+ Citytsihombe not found. Skipping... 
+ Citysaleaula not found. Skipping... 
+Clyde River with city ID:5924351 was found 
+Port-Cartier with city ID:6111696 was found 
+Puerto Madero with city ID:3520989 was found 
+Xiangxiang with city ID:1790471 was found 
+East London with city ID:1006984 was found 
+ Cityturtkul not found. Skipping... 
+Vila Velha with city ID:3445026 was found 
+Shaunavon with city ID:6145425 was found 
+Pathein with city ID:1328421 was found 
+Chokurdakh with city ID:2126123 was found 
+Novoagansk with city ID:1497210 was found 
+Aitape with city ID:2101169 was found 
+Pierre with city ID:5767918 was found 
+Voh with city ID:2137748 was found 
+Nome with city ID:5870133 was found 
+Province of Mantua with city ID:3174050 was found 
+Sovetskiy with city ID:1491230 was found 
+Katherine with city ID:2068655 was found 
+Kruisfontein with city ID:986717 was found 
+ Citygorno-chuyskiy not found. Skipping... 
+Havøysund with city ID:779622 was found 
+Bubaque with city ID:2374583 was found 
+Iwanai with city ID:2129868 was found 
+Basco with city ID:1726449 was found 
+Itarema with city ID:3393692 was found 
+Faya with city ID:110690 was found 
+Copiapó with city ID:3893656 was found 
+Isangel with city ID:2136825 was found 
+Vostok with city ID:2013279 was found 
+Gouyave with city ID:3580279 was found 
+ Citygrand river south east not found. Skipping... 
+Springbok with city ID:3361142 was found 
+Kot Radha Kishan with city ID:1172915 was found 
+Albeşti with city ID:686556 was found 
+Puerto Gaitán with city ID:3769976 was found 
+Taoudenni with city ID:2450173 was found 
+Dothan with city ID:4059102 was found 
+Athens with city ID:264371 was found 
+Mormugao with city ID:1263494 was found 
+Cabo San Lucas with city ID:3985710 was found 
+Deer Lake with city ID:5937252 was found 
+Juneau with city ID:5554072 was found 
+ Cityvaitupu not found. Skipping... 
+Bagar with city ID:1277930 was found 
+Severo-Kuril'sk with city ID:2121385 was found 
+Kinablangan with city ID:1708743 was found 
+Manaus with city ID:3663517 was found 
+São Filipe with city ID:3374210 was found 
+Berlevåg with city ID:780687 was found 
+Baruun-Urt with city ID:2032614 was found 
+Enshi with city ID:1811720 was found 
+Hithadhoo with city ID:1282256 was found 
+Atar with city ID:2381334 was found 
+Naze with city ID:1855540 was found 
+Kutoarjo with city ID:1638981 was found 
+Charters Towers with city ID:2171722 was found 
+Burnie with city ID:2173125 was found 
+Santa Isabel with city ID:3450188 was found 
+Ilulissat with city ID:3423146 was found 
+Lakes Entrance with city ID:2160735 was found 
+Biak with city ID:1637001 was found 
+Yangi Marg`ilon with city ID:1513491 was found 
+Port Lincoln with city ID:2063036 was found 
+Kavieng with city ID:2094342 was found 
+Raudeberg with city ID:3146487 was found 
+ Citynizhneyansk not found. Skipping... 
+Carnarvon with city ID:2074865 was found 
+ Citybarbar not found. Skipping... 
+Namatanai with city ID:2090021 was found 
+Soure with city ID:3387204 was found 
+Vao with city ID:2137773 was found 
+Grindavik with city ID:3416888 was found 
+Pahrump with city ID:5509851 was found 
+Norman Wells with city ID:6089245 was found 
+Waldoboro with city ID:4982044 was found 
+ Cityarmacao dos buzios not found. Skipping... 
+Coquimbo with city ID:3893629 was found 
+Balaipungut with city ID:1650600 was found 
+Coyhaique with city ID:3894426 was found 
+Longhua with city ID:1802618 was found 
+Diego de Almagro with city ID:3892454 was found 
+Thompson with city ID:6165406 was found 
+Beisfjord with city ID:3144987 was found 
+Carbonia with city ID:2525362 was found 
+Lata with city ID:2738381 was found 
+Acaraú with city ID:3408368 was found 
+Pozo Colorado with city ID:3437443 was found 
+Maracás with city ID:3457854 was found 
+Filingué with city ID:2444995 was found 
+Cidreira with city ID:3466165 was found 
+Cherëmukhovo with city ID:569295 was found 
+Sajanan with city ID:2467368 was found 
+Rocha with city ID:3440777 was found 
+San Cristobal with city ID:3628473 was found 
+Paamiut with city ID:3421193 was found 
+La Palma with city ID:5364022 was found 
+Santa Isabel Rio Negro with city ID:3662489 was found 
+Hurghada with city ID:361291 was found 
+Lagoa with city ID:3372964 was found 
+Codajás with city ID:3664525 was found 
+Qui Nhon with city ID:1568574 was found 
+Murgab with city ID:1218612 was found 
+Hegang with city ID:2036986 was found 
+Qaanaaq with city ID:3831208 was found 
+Ust'-Omchug with city ID:2120047 was found 
+ Citybargal not found. Skipping... 
+Kommunisticheskiy with city ID:1502750 was found 
+Banda Aceh with city ID:1215502 was found 
+ Citywarqla not found. Skipping... 
+Nelson Bay with city ID:2155562 was found 
+ Citylolua not found. Skipping... 
+Tabuk with city ID:1684803 was found 
+San Patricio with city ID:4726521 was found 
+Cururupu with city ID:3401148 was found 
+Três Passos with city ID:3446087 was found 
+ Citysamusu not found. Skipping... 
+Fairview Heights with city ID:4238132 was found 
+Porto Santo with city ID:8010683 was found 
+Yarkovo with city ID:1486369 was found 
+Goderich with city ID:5962442 was found 
+Tiarei with city ID:4033356 was found 
+Myanaung with city ID:1308204 was found 
+Okhotsk with city ID:2122605 was found 
+Luena with city ID:3347719 was found 
+Yerbogachën with city ID:2012956 was found 
+Carballo with city ID:3126369 was found 
+North Adams with city ID:4945486 was found 
+Jurilovca with city ID:675130 was found 
+Kaitangata with city ID:2208248 was found 
+Salalah with city ID:286621 was found 
+Dikson with city ID:1507390 was found 
+Lamballe with city ID:3008225 was found 
+Eyl with city ID:60019 was found 
+Vestmannaeyjar with city ID:3412093 was found 
+Kikwit with city ID:2314705 was found 
+ Citymarcona not found. Skipping... 
+Bhopal with city ID:1275841 was found 
+Lüderitz with city ID:3355672 was found 
+Mananjary with city ID:1061335 was found 
+Zheleznodorozhnyy with city ID:463355 was found 
+Chicama with city ID:3698359 was found 
+‘Āhuimanu with city ID:5856516 was found 
+Beloha with city ID:1067565 was found 
+Dubbo with city ID:2168305 was found 
+Popondetta with city ID:2088163 was found 
+Kenai with city ID:5866063 was found 
+São João da Barra with city ID:3448903 was found 
+Tommot with city ID:2015179 was found 
+Turtas with city ID:1540475 was found 
+Berdigestyakh with city ID:2026861 was found 
+Rafaela with city ID:3839479 was found 
+Santa Maria with city ID:3450083 was found 
+Novo Aripuanã with city ID:3663142 was found 
+Aykhal with city ID:2027296 was found 
+Narsaq with city ID:3421719 was found 
+Castro with city ID:3466704 was found 
+Bambanglipuro with city ID:1650434 was found 
+Ostrovnoy with city ID:556268 was found 
+Tucuruí with city ID:3385935 was found 
+Kamenka with city ID:553766 was found 
+Husavik with city ID:2629833 was found 
+Arrifes with city ID:3373329 was found 
+Sobolevo with city ID:525426 was found 
+Perth with city ID:2063523 was found 
+Mazara del Vallo with city ID:6541759 was found 
+Ushtobe with city ID:1517637 was found 
+Hofn with city ID:2630299 was found 
+Bandar with city ID:1215498 was found 
+Chabahar with city ID:1161724 was found 
+Hargeisa with city ID:57289 was found 
+Severnyy-Kospashskiy with city ID:496307 was found 
+Saint Paul Harbor with city ID:5866583 was found 
+Saint Anthony with city ID:5044290 was found 
+Karlskoga with city ID:2701715 was found 
+Beruwala with city ID:1249931 was found 
+Acapulco de Juárez with city ID:3533462 was found 
+Gravdal with city ID:3155152 was found 
+Barra de Tecoanapa with city ID:3516171 was found 
+Kalininsk with city ID:554199 was found 
+Bozeman with city ID:5641727 was found 
+Suntar with city ID:2015913 was found 
+Hamilton with city ID:4513583 was found 
+Los Llanos de Aridane with city ID:2514651 was found 
+Sola with city ID:2134814 was found 
+Yurty with city ID:1485680 was found 
+Córdoba with city ID:3860259 was found 
+ Cityinderborskiy not found. Skipping... 
+Boyolangu with city ID:1648082 was found 
+Chernyshevskiy with city ID:2025456 was found 
+ Cityzhitikara not found. Skipping... 
+ Cityamderma not found. Skipping... 
+Klaksvík with city ID:2618795 was found 
+Spitsevka with city ID:489671 was found 
+Abū Zabad with city ID:380348 was found 
+Atambua with city ID:1651103 was found 
+Souillac with city ID:933995 was found 
+Esim with city ID:2303611 was found 
+Punta Alta with city ID:3839982 was found 
+Berezovyy with city ID:2026786 was found 
+Plainview with city ID:5131638 was found 
+Amapá with city ID:3407762 was found 
+Zaysan with city ID:1517060 was found 
+Chiredzi with city ID:893485 was found 
+Río Cuarto with city ID:3838874 was found 
+Meadow Lake with city ID:5478673 was found 
+Nagapattinam with city ID:1262260 was found 
+ Citystoyba not found. Skipping... 
+Raja with city ID:368246 was found 
+ Cityumzimvubu not found. Skipping... 
+Bontang with city ID:1648186 was found 
+ Citybarawe not found. Skipping... 
+Iquique with city ID:3887127 was found 
+Codrington with city ID:2171099 was found 
+Bichena with city ID:342190 was found 
+Vanavara with city ID:2013727 was found 
+Satun with city ID:1606375 was found 
+Mariinsk with city ID:1499350 was found 
+Karratha with city ID:6620339 was found 
+Altay with city ID:1529651 was found 
+Aljezur with city ID:2271968 was found 
+Acajutla with city ID:3587498 was found 
+Gumlā with city ID:1270722 was found 
+Mattru with city ID:2409215 was found 
+Morgan City with city ID:4333811 was found 
+Bay Roberts with city ID:5895424 was found 
+São Gabriel da Cachoeira with city ID:3662342 was found 
+Pevek with city ID:2122090 was found 
+Mahajanga with city ID:1062663 was found 
+Bac Lieu with city ID:1591474 was found 
+Lovington with city ID:5477090 was found 
+Sakon Nakhon with city ID:1606790 was found 
+Dingle with city ID:1714733 was found 
+Haines Junction with city ID:5969025 was found 
+Arman' with city ID:2127060 was found 
+Abaza with city ID:1512205 was found 
+São Luís de Montes Belos with city ID:3448558 was found 
+Fairbanks with city ID:5861897 was found 
+Muisne with city ID:3653967 was found 
+Caravelas with city ID:3466980 was found 
+Cassilândia with city ID:3466750 was found 
+Mulegé with city ID:3995236 was found 
+São Luiz Gonzaga with city ID:3448552 was found 
+Rumonge with city ID:423549 was found 
+Øksfjord with city ID:778362 was found 
+Fuyang with city ID:1810845 was found 
+Naantali with city ID:645211 was found 
+Nishihara with city ID:1855342 was found 
+Zhangye with city ID:1785036 was found 
+Viedma with city ID:3832899 was found 
+Havelock with city ID:4470244 was found 
+Kayerkan with city ID:1497337 was found 
+Batouri with city ID:2234663 was found 
+Inhambane with city ID:1045114 was found 
+Shubarkuduk with city ID:608271 was found 
+Konongo with city ID:2299349 was found 
+Snezhnogorsk with city ID:795243 was found 
+ Cityartyk not found. Skipping... 
+Igarka with city ID:1505991 was found 
+ Citysinkat not found. Skipping... 
+Loreto with city ID:3998291 was found 
+Elmont with city ID:5116508 was found 
+Pyryatyn with city ID:697183 was found 
+ Citysentyabrskiy not found. Skipping... 
+Shahrud with city ID:135423 was found 
+Broome with city ID:5110365 was found 
+Kawalu with city ID:1640902 was found 
+Aden with city ID:415189 was found 
+Sémbé with city ID:2255304 was found 
+Ahipara with city ID:2194098 was found 
+Sistranda with city ID:3139597 was found 
+Shimanovsk with city ID:2016701 was found 
+Banjar with city ID:1650232 was found 
+Pemba with city ID:1028918 was found 
+ Citysaryshagan not found. Skipping... 
+São Miguel do Araguaia with city ID:3448455 was found 
+Amursk with city ID:2027749 was found 
+Itupiranga with city ID:3397851 was found 
+Oranjemund with city ID:3354071 was found 
+Praia with city ID:3374333 was found 
+Vestmanna with city ID:2610343 was found 
+Kattivākkam with city ID:1267433 was found 
+Rettikhovka with city ID:2017452 was found 
+Lavrentiya with city ID:4031637 was found 
+Bulle with city ID:2661337 was found 
+Kumul with city ID:1529484 was found 
+Grand Gaube with city ID:934479 was found 
+Tura with city ID:1254046 was found 
+Sambava with city ID:1056899 was found 
+Cayenne with city ID:3382160 was found 
+Hambantota with city ID:1244926 was found 
+Grand-Lahou with city ID:2288105 was found 
+Fujin with city ID:2037375 was found 
+Poyarkovo with city ID:2017705 was found 
+Ust'-Ilimsk with city ID:2013952 was found 
+Chumikan with city ID:2025256 was found 
+Bonavista with city ID:5905393 was found 
+Gizo Government Station with city ID:2108857 was found 
+Marondera with city ID:886990 was found 
+Dombarovskiy with city ID:565407 was found 
+Port Elizabeth with city ID:964420 was found 
+Maryville with city ID:4639848 was found 
+Bitung with city ID:1648636 was found 
+Chase with city ID:5920381 was found 
+Padang with city ID:1633419 was found 
+Pimenta Bueno with city ID:3924908 was found 
+Launceston with city ID:2160517 was found 
+Warmbad with city ID:3352263 was found 
+Khani with city ID:610864 was found 
+La Ronge with city ID:6050066 was found 
+Muros with city ID:3115824 was found 
+Bulawayo with city ID:894701 was found 
+Hammerfest with city ID:779683 was found 
+Halifax with city ID:6324729 was found 
+Jackson with city ID:5733351 was found 
+Rawson with city ID:3839307 was found 
+Shakiso with city ID:328716 was found 
+Verāval with city ID:1253237 was found 
+Srednekolymsk with city ID:2121025 was found 
+Pangody with city ID:1495626 was found 
+Gushikawa with city ID:1863495 was found 
+Atlantic Beach with city ID:4146354 was found 
+Umred with city ID:1253807 was found 
+Torbay with city ID:6167817 was found 
+ Citygalgani not found. Skipping... 
+Alekseyevsk with city ID:2022083 was found 
+Tezu with city ID:1254709 was found 
+Lock Haven with city ID:5198635 was found 
+ Citybalimo not found. Skipping... 
+ Citybuqayq not found. Skipping... 
+Bauchi with city ID:2347468 was found 
+ Citysofiysk not found. Skipping... 
+Ulaangom with city ID:1515029 was found 
+Venkatagiri with city ID:1253251 was found 
+Loikaw with city ID:1313479 was found 
+Vokhtoga with city ID:472878 was found 
+Bilibino with city ID:2126682 was found 
+Touros with city ID:3386213 was found 
+Gubkinskiy with city ID:1539209 was found 
+Esperance with city ID:2071860 was found 
+La Fria with city ID:3795152 was found 
+Nhulunbuy with city ID:2064735 was found 
+Nehe with city ID:2035610 was found 
+Châteaudun with city ID:3026285 was found 
+Ust-Maya with city ID:2013918 was found 
+Synya with city ID:485215 was found 
+Bahía Blanca with city ID:3865086 was found 
+Mlonggo with city ID:1635164 was found 
+ Cityhihifo not found. Skipping... 
+Cotonou with city ID:2394819 was found 
+Southbridge with city ID:4951594 was found 
+Diamantino with city ID:3464724 was found 
+Alofi with city ID:4036284 was found 
+Deniliquin with city ID:2169068 was found 
+Mayo with city ID:4362001 was found 
+Sitka with city ID:5557293 was found 
+Sofiyivka with city ID:693325 was found 
+Lárdos with city ID:408689 was found 
+Mackay with city ID:2159220 was found 
+Gobabis with city ID:3357247 was found 
+San Miguel de Tucumán with city ID:3836873 was found 
+Khovd with city ID:1516048 was found 
+Canavieiras with city ID:3467577 was found 
+Kichera with city ID:2022129 was found 
+Geraldton with city ID:2070998 was found 
+Ponta do Sol with city ID:2264557 was found 
+Benghazi with city ID:88319 was found 
+Baghdad with city ID:98182 was found 
+Calama with city ID:3897347 was found 
+Constitución with city ID:3893726 was found 
+Seymchan with city ID:2121373 was found 
+Omaruru with city ID:3354540 was found 
+Bouza with city ID:2446466 was found 
+Khvoynaya with city ID:548890 was found 
+Querecotillo with city ID:3693057 was found 
+Moussoro with city ID:2427336 was found 
+Mayumba with city ID:2399001 was found 
+Poronaysk with city ID:2121909 was found 
+Belaya Gora with city ID:2126785 was found 
+ Cityone hundred mile house not found. Skipping... 
+Mossamedes with city ID:3347019 was found 
+Kyabram with city ID:2160910 was found 
+Tagusao with city ID:1684245 was found 
+Makakilo City with city ID:5850554 was found 
+Vincennes with city ID:6613142 was found 
+ Citytoliary not found. Skipping... 
+Nantucket with city ID:4944903 was found 
+Safi with city ID:2537881 was found 
+Polson with city ID:5671996 was found 
+Abhā with city ID:110690 was found 
+Klatovy with city ID:3073660 was found 
+Reyes with city ID:3906478 was found 
+Kununurra with city ID:2068110 was found 
+ Cityhaapu not found. Skipping... 
+The Pas with city ID:6164499 was found 
+Mopipi with city ID:933288 was found 
+Wajir with city ID:178443 was found 
+Svecha with city ID:485799 was found 
+Mengyin with city ID:1800675 was found 
+Northam with city ID:2641434 was found 
+Vila Franca do Campo with city ID:3372472 was found 
+Puerto Suárez with city ID:3444199 was found 
+Mugur-Aksy with city ID:1498283 was found 
+‘Ewa Beach with city ID:5855051 was found 
+ Citykoyilandi not found. Skipping... 
+Port Hawkesbury with city ID:6111867 was found 
+Xaçmaz with city ID:584717 was found 
+ Citymaghama not found. Skipping... 
+Inuvik with city ID:5983607 was found 
+Faranah with city ID:2421273 was found 
+Altyn-Topkan with city ID:1514829 was found 
+Tsiroanomandidy with city ID:1054463 was found 
+Samarai with city ID:2132606 was found 
+Vicuña with city ID:3868308 was found 
+ Cityviligili not found. Skipping... 
+Cairns with city ID:2172797 was found 
+Nara with city ID:1855612 was found 
+Svetlaya with city ID:2015852 was found 
+Vaitape with city ID:4033077 was found 
