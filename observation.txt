@@ -1,0 +1,11 @@
+1.Temperature is inversely related to latitude. As latitude increases, the temperature falls, and vice versa. Generally, around the world, it gets warmer towards the equator and cooler towards the poles.
+
+2.It seems that there is no correlation between humidity and latitude,Northern Hemisphere has a wide range of humidity levels, between 10% and 100%.However we can observe the humidity of all cities with latitude more than 45 is
+greater than %35.
+
+Southern Hemisphere has high humidity levels, 60% - 100%, right next to the equator, but going farther south, away from the equator, humidity levels very widely, 20% - 100%.
+
+3.There does not seem to be a significant correlation between latitude and cloudiness however since air descends between about 15 and 30 degrees north and south of the equator, clouds are rare and deserts are common at this
+latitude and Clouds also tend to form in abundance in the middle latitudes 60 degrees north and south of the equator.
+
+4.Although there is very little correlation between wind speed and latitude, wind speed tends to be higher near arctic and antarctic.
