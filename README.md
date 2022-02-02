@@ -59,7 +59,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/Heatmap.png)
+![heatmap](Images/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
@@ -77,7 +77,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotels_marker_1](Images/hotels_marker_1.png)
+  ![hotels_marker_2](Images/hotels_marker_2.PNG)
 
 As final considerations:
 
